@@ -8,7 +8,7 @@ sky category is 40
 it has data in json that determine the area 
 Note Using for 1 image but the prenciple is the same
 you can put in !wget https://farm5.staticflickr.com/4147/5087832865_a8a388de44_z.jpg -q -O input.jpg ,
-w/e picture you want from COCO data set replace untill -q please, flicker one and it will work
+w/e picture you want from COCO data set replace url untill -q please, flicker one and it will work
 
 splitting the image into 3 parts RGB
 determining what category in instanse info pegmentation model data
