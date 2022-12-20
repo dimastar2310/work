@@ -17,4 +17,15 @@ working with 3 r g b pictures in paralel (area times) painting pixels white ,wic
 concatinating the picture and displaying it.
 
 this models only understand coco format
+
+thanks the most to this articles
+
+https://kharshit.github.io/blog/2019/10/18/introduction-to-panoptic-segmentation-tutorial
+https://www.youtube.com/watch?v=eUSgtfK4ivk
+https://www.youtube.com/watch?v=h6s61a_pqfM&t=620s
+
+
+
 ![alt text](https://github.com/dimastar2310/work/blob/main/out(1).png)
+
+
