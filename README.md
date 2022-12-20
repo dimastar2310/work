@@ -8,17 +8,17 @@ sky category is 40
 it has data in json that determine the area 
 Note Using for 1 image but the prenciple is the same
 you can put in !wget https://farm5.staticflickr.com/4147/5087832865_a8a388de44_z.jpg -q -O input.jpg ,
-w/e picture you want from COCO data set replace url untill -q please, flicker one and it will work
+w/e picture you want from COCO data set replace url untill -q please, flicker one and it will work.
 
-splitting the image into 3 parts RGB
+Splitting the image into 3 parts RGB
 determining what category in instanse info pegmentation model data
 the name of the category in MetadataCatalog.get(cfg.DATASETS.TRAIN[0]) in stuff category ,only for coco 
 working with 3 r g b pictures in paralel (area times) painting pixels white ,wich determine pixels (third argument is chanel)
 concatinating the picture and displaying it.
 
-this models only understand coco format
+This models only understand coco format
 
-thanks the most to this articles
+Thanks the most to this articles
 
 #https://kharshit.github.io/blog/2019/10/18/introduction-to-panoptic-segmentation-tutorial
 #https://www.youtube.com/watch?v=eUSgtfK4ivk
