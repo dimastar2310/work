@@ -21,9 +21,9 @@ this models only understand coco format
 thanks the most to this articles
 
 #https://kharshit.github.io/blog/2019/10/18/introduction-to-panoptic-segmentation-tutorial
-#https://www.youtube.com/watch?v=eUSgtfK4ivk
-#https://www.youtube.com/watch?v=h6s61a_pqfM&t=620s
-#https://stackoverflow.com/questions/7589012/combining-two-images-with-opencv
+https://www.youtube.com/watch?v=eUSgtfK4ivk
+https://www.youtube.com/watch?v=h6s61a_pqfM&t=620s
+https://stackoverflow.com/questions/7589012/combining-two-images-with-opencv
 
 
 
