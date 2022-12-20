@@ -1,6 +1,6 @@
 # Image cutting with Dectron2 and visualizing with CV2 ,using one model for object detection and other for  other.
 #Last.ipynb virsion is last
-Note if you using GPU you can put in the code# in the model Iam using CPU for free version.
+Note if you using GPU you can put in the code COMMIT # in the model Iam using CPU for free version.
 Using 2 Detectron predictors 
 first one for instance detection (object)
 second one we dont have sky in the data set so we use 
