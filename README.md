@@ -1,5 +1,5 @@
 # Image cutting 
-Note if you using gpu you can # in the model Iam using cpu for free version.
+Note if you using GPU you can # in the model Iam using CPU for free version.
 Using 2 Detectron predictors 
 first one for instance detection (object)
 second one we dont have sky in the data set so we use 
