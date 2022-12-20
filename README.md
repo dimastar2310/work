@@ -1,4 +1,4 @@
-# Image cutting 
+# Image cutting with Dectron2 and visualizing with CV2 ,using 1 model for object detection and other for  other.
 #Last virsion is last
 Note if you using GPU you can put in the code# in the model Iam using CPU for free version.
 Using 2 Detectron predictors 
