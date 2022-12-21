@@ -15,6 +15,8 @@ Splitting the image into 3 parts RGB
 determining what category in instanse info pegmentation model data
 the name of the category in MetadataCatalog.get(cfg.DATASETS.TRAIN[0]) in stuff category ,only for coco 
 working with 3 r g b pictures in paralel (area times) painting pixels white ,wich determine pixels (third argument is chanel)
+FOR EXAMPLE WE HAVE 70,000 AREA FOR STUFF CATEGORY WHICH IS 40 AND OUR PICTURE IS 640X480=307200 
+SO WE PAINTING FIRST 70000 PIXELS FOR EACH R G B AND THEN MERGING THEM TOGETHER.
 concatinating the picture and displaying it.
 
 This models only understand coco format
